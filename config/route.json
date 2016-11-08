@@ -1,0 +1,19 @@
+{
+	"routelist":[
+		{
+			"path":"index",
+			"pagelet":[
+					   "core-test01",
+					   "jinshw-core"					   
+					   ],
+			"js":[
+				"src/pagelet/js/top.js"			],
+			"css":[
+				"src/css/globe.css"
+			],
+			"title":"测试模块——测试页面"
+		}
+
+	]
+	
+}
